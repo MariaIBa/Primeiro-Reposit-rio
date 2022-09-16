@@ -1,2 +1,2 @@
-# Primeiro-Reposit-rio
+# Primeiro-Repositorio
 Primeiro repositório no Github.
